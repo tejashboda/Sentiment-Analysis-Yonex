@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import re
-import emoji
+#import emoji
 from textblob import TextBlob
 import nltk
 from nltk.tokenize import word_tokenize,sent_tokenize
